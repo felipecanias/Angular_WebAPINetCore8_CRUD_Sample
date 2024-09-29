@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sk8cBsqbPt6IiTlF2aU8nwXCOCSjHtXa32BdaXCtbIrwoD3hMcO+GTo2djVjUOWtZHUQXJdTWyRaK2LthLpgJg==",
+  "dgSpecHash": "YRxOp8r61RBXGBRnqeM5UaZkScJddzl+dNrDiKwu+GRpot+IwPWNquZ4zcEjwMLNNsBs6e3w/2vTGVqNfclGuA==",
   "success": true,
   "projectFilePath": "/home/felipe/UCC/4to/Ingenieria de Software III/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
   "expectedPackageFiles": [
     "/home/felipe/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/home/felipe/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
-    "/home/felipe/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/home/felipe/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/felipe/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
